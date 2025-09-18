@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/pascalakano) • [Email](mailto:ugonnapascal.a@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/Pascal-Akano) • [Email](mailto:ugonnapascal.a@gmail.com)
 
 <!---
 Akanopascal/Akanopascal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
