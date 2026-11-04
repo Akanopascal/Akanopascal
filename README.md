@@ -13,10 +13,15 @@
 ---
 
 ##  Current Goals
-- Uploading my academic + personal projects weekly on GitHub  
-- Collaborating with other open-source learners  
-- Developing real-time dashboards for NGO project impact
+What I'm building now
 
+I'm working through a public portfolio plan (Nov 2026 – Apr 2027), going from data analysis to deployed machine learning and LLM apps:
+
+- UK House Prices Analysis — Hull vs Yorkshire (in progress)
+- Customer complaints analysis with SQL + Power BI (next)
+- Churn prediction · deployed ML web app · RAG assistant · end-to-end ML capstone (coming up)
+
+Follow along — I commit progress most days.
 ---
 
 ## 🛠️ Tech Stack
