@@ -1,19 +1,10 @@
-# Hi, I'm Pascal Akano
+# Hi, I'm Pascal Akano 👋
 
- MSc Artificial Intelligence & Data Science @ University of Hull  
- Passionate about Agritech, AI for social good, and real-world data solutions  
- Currently building intelligent systems using Python, XAI, NLP, and Power BI  
- Projects include: 
--  **UK Traffic Accident Forecasting** using clustering & time series  
--  **Fake News Detection** with BERT & BiLSTM models  
--  **Community Impact Analytics** (COLORS Initiative – over ₦6M raised)
+**Aspiring Data Scientist / ML Engineer** · MSc Artificial Intelligence & Data Science (University of Hull) · Based in Hull, UK
 
- I'm especially interested in solving real challenges in agriculture and community development using data-driven methods.
+I turn messy, real-world data into clear insights and working models that solve practical problems — from customer operations and public services to community impact.
 
----
-
-##  Current Goals
-What I'm building now
+## What I'm building now
 
 I'm working through a public portfolio plan (Nov 2026 – Apr 2027), going from data analysis to deployed machine learning and LLM apps:
 
@@ -22,7 +13,6 @@ I'm working through a public portfolio plan (Nov 2026 – Apr 2027), going from 
 - Churn prediction · deployed ML web app · RAG assistant · end-to-end ML capstone (coming up)
 
 Follow along — I commit progress most days.
----
 
 ## 🛠️ Tech Stack
 `Python` | `Power BI` | `scikit-learn` | `TensorFlow` | `Keras` | `NLP` | `XAI` | `Pandas` | `Git` | `Streamlit`| `SQL` |
