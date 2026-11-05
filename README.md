@@ -1,6 +1,6 @@
 # Hi, I'm Pascal Akano 👋
 
-**Aspiring Data Scientist / ML Engineer** · MSc Artificial Intelligence & Data Science (University of Hull) · Based in Hull, UK
+**Data Scientist / ML Engineer** · MSc Artificial Intelligence & Data Science (University of Hull) · Based in Hull, UK
 
 I turn messy, real-world data into clear insights and working models that solve practical problems — from customer operations and public services to community impact.
 
